@@ -1,0 +1,11 @@
+
+{
+    "name": "meteor-formatter",
+    "description": "Format user input to match a specified pattern", 
+    "homepage": "https://github.com/pfafman/meteor-formatter",
+    "author": "Tim Pfafman <tim@pfafman.com>",
+    "version": "0.1.4",
+    "git": "https://github.com/pfafman/meteor-formatter.git",
+    "packages": {
+    }
+}
